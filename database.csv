@@ -1,0 +1,6 @@
+id,flight_id,airline,flight_description,flight_source,destination,cost
+1,751,DL,DL751,BLR,BOM,100
+12,748,DL,DL748,FRA,BLR,380
+14,749,DL,DL749,FRA,MAA,900
+15,750,DL,DL750,BLR,MAA,200
+17,751,DL,DL751,BOM,CAA,350
